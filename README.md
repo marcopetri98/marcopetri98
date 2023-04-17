@@ -32,7 +32,6 @@ I'm Marco Petri, a computer science and engineering student at Politecnico di Mi
 
 ## Stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=marcopetri98&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languageas](https://github-readme-stats.vercel.app/api/top-langs/?username=marcopetri98&layout=compact&hide=html,alloy&langs_count=7&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **marcopetri98/marcopetri98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

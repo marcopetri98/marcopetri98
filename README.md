@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm Marco Petri, a computer science and engineering student at Politecnico di Milano. I'm 25 years old (as of 2023) and I'm planning to continue my career path with a PhD. My thesis is about machine learning as well as all my master's path was centred on it. Specifically, I'm currently working on anomaly detection on time series.
+I'm Marco Petri, a computer science and engineering student at Politecnico di Milano. I'm 26 years old (as of 2024) and I'm planning to continue my career path with a PhD. My thesis is about machine learning as well as all my master's path was centred on it. Specifically, I'm currently working on anomaly detection on time series.
 
 ## Programming languages
 ![Python](https://img.shields.io/badge/python-3776AB?&style=for-the-badge&logo=python&logoColor=FFD849)
@@ -29,6 +29,22 @@ I'm Marco Petri, a computer science and engineering student at Politecnico di Mi
 ![Seaborn](https://img.shields.io/badge/seaborn-7DB0BC?&style=for-the-badge)
 ![Tqdm](https://img.shields.io/badge/tqdm-FFC107?&style=for-the-badge&logo=tqdm&logoColor=000000)
 ![Colorama](https://img.shields.io/badge/colorama-e04751?&style=for-the-badge)
+
+## Practices
+![Conventional Commits](https://img.shields.io/badge/Conventional%20commits-fd578d?&style=for-the-badge&logo=conventionalcommits&logoColor=ffffff)
+
+## Tools
+![Codeium](https://img.shields.io/badge/Codeium-09b6a2?&style=for-the-badge&logo=codeium&logoColor=000000)
+![GPT](https://img.shields.io/badge/GPT-ffffff?&style=for-the-badge&logo=openai&logoColor=000000)
+![Docker](https://img.shields.io/badge/Docker-ffffff?&style=for-the-badge&logo=docker&logoColor=1d63ed)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-ffffff?&style=for-the-badge&logo=kubernetes&logoColor=326de6)
+![Draw.io](https://img.shields.io/badge/Draw.io-ffffff?&style=for-the-badge&logo=diagramsdotnet&logoColor=f09728)
+
+## Scripting and favourite IDEs
+![Powershell](https://img.shields.io/badge/Powershell-blue?style=for-the-badge)
+![PyCharm](https://img.shields.io/badge/pycharm-20D088?&style=for-the-badge&logo=pycharm&logoColor=000000)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-1C89D2?style=for-the-badge)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-AB7DE0?style=for-the-badge)
 
 ## Stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=marcopetri98&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)

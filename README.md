@@ -2,7 +2,11 @@
 
 ## About me
 
-I'm Marco Petri, a computer science and engineering student at Politecnico di Milano. I'm 26 years old (as of 2024) and I'm planning to continue my career path with a PhD. My thesis is about machine learning as well as all my master's path was centred on it. Specifically, I'm currently working on anomaly detection on time series.
+I'm Marco Petri, a Computer Science and Engineering graduate from Politecnico di Milano (born in 1998). My academic and professional path is driven by a deep interest in machine learning, which was the core focus of my Master's studies and thesis.
+
+My thesis work centered on anomaly detection in time series, a field I continue to explore. Currently, I am actively researching topics to pursue a Ph.D. , with my interests extending to areas like Joint Embedding Predictive Architectures (JEPA) and their application in robot control.
+
+Professionally, I have experience as a Software Engineer and Consultant at Reply, and as a Data Scientist at Intesa Sanpaolo. My expertise spans building complex systems, system integration, PoC development, and end-to-end Data Science projects, utilizing languages like Java and Python along with modern DevOps practices.
 
 ## Programming languages
 ![Python](https://img.shields.io/badge/python-3776AB?&style=for-the-badge&logo=python&logoColor=FFD849)
